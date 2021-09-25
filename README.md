@@ -7,7 +7,7 @@
   - OS: Linux
 
 + Как устанавливать?
-  - <pip install pyrogram tg-crypto>
+  <pip install pyrogram tg-crypto>
   - Зайти в телеграмм
     - Через поиск найти бота @spotify_down_bot
     - Нажать старт
