@@ -1,4 +1,5 @@
 # SpotiDownload
+## Репозиторий перемещен в [GitLab](https://gitlab.com/KirMozor/SpotiDownload)
 ### SpotiDownload - Скачивание текущего трека в 1 клик! ###
 
 
